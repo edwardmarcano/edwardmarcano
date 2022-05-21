@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - <br/>
-[![Linkedin: edwardmarcano](https://img.shields.io/badge/-edwardmarcano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edward-marcono-35360123b/)](https://www.linkedin.com/in/dyammarcano/)
+[![Linkedin: edwardmarcano](https://img.shields.io/badge/-edwardmarcano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edward-marcono-35360123b/)](https://www.linkedin.com/in/edward-marcono-35360123b/)
 [![GitHub edwardmarcano](https://img.shields.io/github/followers/edwardmarcano?style=flat-square)](https://github.com/edwardmarcano)
 [![Visits](https://komarev.com/ghpvc/?username=edwardmarcano&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/edwardmarcano)
 <!---
