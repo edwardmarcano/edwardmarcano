@@ -3,7 +3,10 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
+[![Linkedin: edwardmarcano](https://img.shields.io/badge/-edwardmarcano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edward-marcono-35360123b/)](https://www.linkedin.com/in/dyammarcano/)
+[![GitHub edwardmarcano](https://img.shields.io/github/followers/edwardmarcano?style=flat-square)](https://github.com/edwardmarcano)
+[![Visits](https://komarev.com/ghpvc/?username=edwardmarcano&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/edwardmarcano)
+[![wakatime](https://wakatime.com/badge/user/ab152392-2cad-4f31-9ae8-6f4d244fff57.svg?style=flat-square)](https://wakatime.com/@ab152392-2cad-4f31-9ae8-6f4d244fff57)
 <!---
 edwardmarcano/edwardmarcano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
