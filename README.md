@@ -35,6 +35,7 @@
 [![Linkedin: edwardmarcano](https://img.shields.io/badge/-edwardmarcano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edward-marcono-35360123b/)](https://www.linkedin.com/in/edward-marcono-35360123b/)
 [![GitHub edwardmarcano](https://img.shields.io/github/followers/edwardmarcano?style=flat-square)](https://github.com/edwardmarcano)
 [![Visits](https://komarev.com/ghpvc/?username=edwardmarcano&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/edwardmarcano)
+[![wakatime](https://wakatime.com/badge/user/da147da6-6e3a-4eb3-93d8-73cab1026872.svg)](https://wakatime.com/@da147da6-6e3a-4eb3-93d8-73cab1026872)
 
 <br/>
 
