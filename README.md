@@ -16,6 +16,7 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="edwardmarcano" height="30" width="30" />
   </a>
 </p>
+
 <br/>
 
 - 🏡 I currently live in São Paulo/SP Brazil.
@@ -30,9 +31,34 @@
 - 💬 Ask me about Rust or any tech related stuff.
 
 <br/>
+
 [![Linkedin: edwardmarcano](https://img.shields.io/badge/-edwardmarcano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edward-marcono-35360123b/)](https://www.linkedin.com/in/edward-marcono-35360123b/)
 [![GitHub edwardmarcano](https://img.shields.io/github/followers/edwardmarcano?style=flat-square)](https://github.com/edwardmarcano)
 [![Visits](https://komarev.com/ghpvc/?username=edwardmarcano&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/edwardmarcano)
+
+<br/>
+
+**Languages and Tools:**  
+
+<code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
+<code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
+<code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
+<code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+<code><img height="30" width="30" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></code> 
+
+<br/>
+
+<a href="https://github.com/edwardmarcano">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=edwardmarcano&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+</a>
+
+<div align="center">
+
+### Talk is cheap. Show me the code.
+
+</div>
+
 <!---
 edwardmarcano/edwardmarcano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
